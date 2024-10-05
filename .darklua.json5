@@ -1,0 +1,11 @@
+{
+  rules: [
+    {
+      rule: "inject_typechecker",
+      use_typeof: true,
+      types: {
+        
+      }
+    }
+  ]
+}

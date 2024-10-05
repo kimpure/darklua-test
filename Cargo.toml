@@ -1,0 +1,7 @@
+[package]
+name = "darkluatest"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+darklua = { github = "seaofvoices/darklua", version = "=0.13.1" }
